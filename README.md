@@ -58,7 +58,7 @@ Web VR/XE: NSFW
 |-------------|-------------|---|
 |3D photos|  | https://www.facebook.com/poorani.prabhakaran/posts/2044316965601304 |
 |180/360 Photos|  | http://m.facebook.com |
-| |Enter VR' from a Group Feed Post|	facebook.com/Facebook360 |
+| |Enter VR' from a Group Feed Post|	http://facebook.com/Facebook360 |
 |Address Bar| | http://badssl.com |
 | |Address bar controls work in different browser size|	https://www.amazon.com/ |
 Audio| Audio is heard through earbuds when playing a youtube video|	https://www.youtube.com/ 
